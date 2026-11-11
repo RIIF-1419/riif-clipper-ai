@@ -167,4 +167,4 @@ if st.button("🚀 GENERATE CLIPS", type="primary"):
 
 st.divider()
 st.caption("RIIF CLIPPER AI | Version 1.0")
-                  
+

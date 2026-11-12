@@ -166,5 +166,5 @@ if st.button("🚀 GENERATE CLIPS", type="primary"):
                 st.error(f"Terjadi kesalahan: {e}")
 
 st.divider()
-st.caption("RIIF CLIPPER AI | Version 1.0")
+st.caption("RIIF CLIPPER AI | Version 2.0")
 
